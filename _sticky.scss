@@ -1,0 +1,29 @@
+.sticky {
+	background: #E4FBFF;
+	padding: 0 15px;
+	border:1px dashed #04BEEF;
+        opacity:0.9;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	}
+.sticky h2 {
+	/*padding-top: 10px;*/
+	margin-top:0.7em;
+	}
+
+.sticky  .date {
+display:none;
+}
+
+.sticky  .postmetadata {
+display:none;
+}
+
+.sticky  .commentbubble {
+display:none;
+}
+
+.sticky  .tags {
+display:none;
+}
+

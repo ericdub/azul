@@ -1,0 +1,23 @@
+#commentform #author, #commentform #email, #commentform #url, #commentform #comment {
+	background: #ffffff;
+	border: 1px solid #cccccc;
+	color: #666666;
+}
+
+.commentlist {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.commentlist li {
+	background: #ebebeb;
+	padding: 20px;
+	border: 1px solid #cccccc;
+	margin: 0 0 20px 0;
+}
+
+.avatar {
+	float: left;
+	margin: 0 5px 0 0;
+}

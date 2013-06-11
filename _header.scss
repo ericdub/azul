@@ -1,0 +1,56 @@
+#header {
+	height: 110px;
+	padding: 40px 50px 0 50px;
+	background: url(images/headerbg.jpg);
+	background-repeat: no-repeat;
+	font-size: 15px;
+	position: relative;
+}
+
+#header h1 {
+	margin: 15px 0 0 12px;
+	font-size: 49.2px;
+  font-weight:normal;
+}
+
+#header a {
+	text-decoration: none;
+	color: #122f5b;
+}
+
+#header a:hover {
+	color: #666666;
+}
+
+#header #search {
+	position: absolute;
+	top: 40px;
+	right: 50px;
+	height: 20px;
+}
+
+#header #s {
+	background: #ffffff;
+	border: 1px solid #cccccc;
+	color: #666666;
+	width: 205px;
+	margin: 22px 14px 0 0;
+	font-size: 12px;
+	color: #999999;
+	padding: 2px;
+}
+
+#header #searchsubmit {
+	height: 20px;
+	width: 20px;
+	border: none;
+	cursor: pointer;
+	background: url(images/searchsubmit.gif);
+	background-repeat: no-repeat;
+	display: none;
+}
+
+#login {
+	text-align: right;
+}
+

@@ -1,0 +1,92 @@
+#posts {
+	width: 580px;
+	padding: 0 0 0 65px;
+	margin: 0 0 20px 0;
+	float: left;
+	margin-top:-17px;
+}
+
+.commentbubble a {
+	float: left;
+	background: url(images/commentbubble.gif);
+	background-repeat: no-repeat;
+	background-position: 0 -1px;
+	width: 30px;
+	height: 30px;
+	text-align: center;
+	font-size: 10px;
+	margin: 0 5px 0 0;
+}
+
+.date {
+	font-size: 12px;
+	color: #999999;
+	line-height: 1.5em;
+}
+
+.post {
+	margin: 20px 0 20px 0;
+}
+
+.tags {
+	font-size: 10px;
+	line-height: 1.5em;
+	color: #999999;
+}
+
+.post h2 {
+	/*font-size: 16px;
+	font-weight: bold;*/
+	margin: 0 0 6px 0;
+}
+
+.post h3 {
+	font-size: 14px;
+	font-weight: bold;
+	
+}
+
+.post a, .navigation a {
+	color: #0195c5;
+	text-decoration: none;
+}
+
+.post a:hover, .navigation a:hover {
+	color: #333333;
+}
+
+.post a img {
+	border: none;
+}
+
+.postmetadata {
+	font-size: 10px;
+	line-height: 3em;
+}
+
+.post img.alignleft {
+	float: left;
+	margin: 6px 12px 4px 0px;
+}
+
+.post img.alignright {
+	float: right;
+	margin: 0 0 5px 15px;
+}
+
+.post img.aligncenter {
+	text-align: center;
+}
+
+.post .wp-caption {
+	border: 1px solid #cccccc;
+	background: #ebebeb;
+	text-align: center;
+	padding: 10px 5px 0 5px;
+}
+
+.post .wp-caption-text {
+	margin: 0;
+	font-size: 12px;
+}
+
